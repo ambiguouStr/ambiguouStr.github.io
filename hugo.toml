@@ -1,0 +1,33 @@
+baseURL = "https://ambiguoustr.github.io/"
+enableGitInfo = false
+enableRobotsTXT = true
+hasCJKLanguage = true
+languageCode = "zh"
+rssLimit = 10
+theme = "hugo-texify3"
+title = "ambiguousStr"
+
+[pagination]
+pagerSize = 5
+
+[taxonomies]
+tags = "tags"
+categories = "categories"
+
+[params]
+title = "ambiguousStr"
+author = "ambiguousStr"
+description = ""
+footnote = """
+Powered by <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> |
+Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+"""
+customCSS = []
+customJS = []
+dateFormat = "2006-01-02"
+emphasisWithDots = true
+toc = false
+rootFontSize = "105%"
+math = true
+enableDuckDuckGoSearchBox = false
+numberedSubtitles = false
