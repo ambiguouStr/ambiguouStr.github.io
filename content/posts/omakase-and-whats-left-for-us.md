@@ -2,7 +2,7 @@
 title: "Omakase，以及还剩什么给我们"
 date: 2026-03-24
 categories: [Blogs]
-tags: [AI]
+tags: [omakase, Claude Code, agent, misc]
 ---
 
 常跟 Claude 说的两句话：*omakase*，和 *what's left for us*。
@@ -44,3 +44,7 @@ Claude 给自己派活，做完检查，再做下一条。人类把循环搭好�
 设计循环这件事，目前还没法 omakase。skill 的边界、优先级、介入时机，这些还是得自己来。里面具体的执行，才轮到 omakase。
 
 *what's left for us* 放在 repo 里是盘 TODO，放大一个尺度，问的是同一件事。
+
+---
+
+お任せした――[the left of us](https://topology2333.github.io/blog/posts/reading/left-of-us/)
